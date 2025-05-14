@@ -3,16 +3,16 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Was Badla Pak Rooh Deya Badla</title>
+  <title>Pak Badla – Official Music</title>
   <style>
     body {
       font-family: Arial, sans-serif;
-      background: #f2f2f2;
+      background: #f0f8ff;
       margin: 0;
       padding: 0;
     }
     header {
-      background: #333;
+      background: #1c1c1c;
       color: white;
       padding: 1rem;
       text-align: center;
@@ -20,44 +20,25 @@
     .content {
       padding: 2rem;
     }
-    .video {
-      margin: 1rem 0;
+    .link-box {
+      margin: 1rem auto;
       background: white;
-      padding: 1rem;
-      border-radius: 8px;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      padding: 1.5rem;
+      border-radius: 10px;
+      max-width: 800px;
+      text-align: center;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
     }
-    iframe {
-      width: 100%;
-      height: 400px;
-      border: none;
+    a {
+      color: #1a73e8;
+      font-size: 1.2rem;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
     }
     footer {
       text-align: center;
       padding: 1rem;
-      background: #333;
+      background: #1c1c1c;
       color: white;
-      margin-top: 2rem;
-    }
-  </style>
-</head>
-<body>
-
-  <header>
-    <h1>Was Badla Pak Rooh Deya Badla</h1>
-    <p>Enjoy this lyrical worship song</p>
-  </header>
-
-  <div class="content">
-    <div class="video">
-      <h2>Was Badla Pak Rooh Deya Badla</h2>
-      <iframe src="https://www.youtube.com/embed/N-P99nqlejc" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-  </div>
-
-  <footer>
-    &copy; 2025 Worship Music Page. All rights reserved.
-  </footer>
-
-</body>
-</html>
