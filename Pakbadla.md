@@ -42,3 +42,27 @@
       padding: 1rem;
       background: #1c1c1c;
       color: white;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Pak Badla</h1>
+    <p>Official Music Video by the Creator</p>
+  </header>
+
+  <div class="content">
+    <div class="link-box">
+      <h2>Listen on YouTube:</h2>
+      <a href="https://youtu.be/-EkcVtY2HH4" target="_blank">https://youtu.be/-EkcVtY2HH4</a>
+    </div>
+  </div>
+
+  <footer>
+    &copy; 2025 Pak Badla Music. All rights reserved.
+  </footer>
+
+</body>
+</html>
